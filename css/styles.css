@@ -150,6 +150,9 @@ p {
 }
 /*******************************************/
 @media (max-width:1090px) {
+    #title{
+    text-align: center;
+  }
   .toppic {
     position: static;
     transform: rotate(0);
